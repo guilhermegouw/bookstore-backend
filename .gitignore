@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Chalice
+.chalice/deployments/
+.chalice/venv/
+
+# Misc
+*.log
+.DS_Store
